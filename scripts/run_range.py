@@ -2,8 +2,8 @@
 from __future__ import annotations
 
 import argparse
-import sys
-from collatz import scan_range, max_over_range
+
+from collatz import max_over_range, scan_range
 
 
 def parse_args(argv=None):

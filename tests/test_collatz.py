@@ -1,4 +1,5 @@
 import pytest
+
 from collatz import collatz_stats, max_over_range
 
 
